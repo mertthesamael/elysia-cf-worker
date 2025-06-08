@@ -1,8 +1,7 @@
-name = "elysia-bun"
-compatibility_date = "2023-12-01"
+name = "elysia-bun-updated"
+compatibility_date = "2025-06-08"
+compatibility_flags = [ "nodejs_compat", "nodejs_compat_populate_process_env" ]
 
-# [vars]
-# MY_VAR = "my-variable"
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
